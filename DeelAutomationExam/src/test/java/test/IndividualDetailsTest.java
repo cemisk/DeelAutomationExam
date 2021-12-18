@@ -15,8 +15,6 @@ public class IndividualDetailsTest extends TestBase {
         loginPage.login();
         entityPage.fillEntity();
 
-
-
     }
 
 }
